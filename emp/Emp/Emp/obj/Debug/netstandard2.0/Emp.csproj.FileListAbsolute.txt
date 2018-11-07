@@ -1,0 +1,15 @@
+C:\Users\TopC290\Documents\SONG\Xamarin\Emp\Emp\Emp\bin\Debug\netstandard2.0\Emp.deps.json
+C:\Users\TopC290\Documents\SONG\Xamarin\Emp\Emp\Emp\bin\Debug\netstandard2.0\Emp.dll
+C:\Users\TopC290\Documents\SONG\Xamarin\Emp\Emp\Emp\obj\Debug\netstandard2.0\Emp.csprojAssemblyReference.cache
+C:\Users\TopC290\Documents\SONG\Xamarin\Emp\Emp\Emp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\TopC290\Documents\SONG\Xamarin\Emp\Emp\Emp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\TopC290\Documents\SONG\Xamarin\Emp\Emp\Emp\obj\Debug\netstandard2.0\Emp.csproj.CoreCompileInputs.cache
+C:\Users\TopC290\Documents\SONG\Xamarin\Emp\Emp\Emp\obj\Debug\netstandard2.0\Emp.AssemblyInfoInputs.cache
+C:\Users\TopC290\Documents\SONG\Xamarin\Emp\Emp\Emp\obj\Debug\netstandard2.0\Emp.AssemblyInfo.cs
+C:\Users\TopC290\Documents\SONG\Xamarin\Emp\Emp\Emp\bin\Debug\netstandard2.0\Emp.dll.config
+C:\Users\TopC290\Documents\SONG\Xamarin\Emp\Emp\Emp\obj\Debug\netstandard2.0\Emp.csproj.App.config
+C:\Users\TopC290\Documents\SONG\Xamarin\Emp\Emp\Emp\bin\Debug\netstandard2.0\Emp.pdb
+C:\Users\TopC290\Documents\SONG\Xamarin\Emp\Emp\Emp\obj\Debug\netstandard2.0\View\EmpViewPage.xaml.g.cs
+C:\Users\TopC290\Documents\SONG\Xamarin\Emp\Emp\Emp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\TopC290\Documents\SONG\Xamarin\Emp\Emp\Emp\obj\Debug\netstandard2.0\Emp.dll
+C:\Users\TopC290\Documents\SONG\Xamarin\Emp\Emp\Emp\obj\Debug\netstandard2.0\Emp.pdb

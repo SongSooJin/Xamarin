@@ -1,0 +1,12 @@
+C:\Users\TopC290\Documents\SONG\Xamarin\Selector\Selector\Selector\bin\Debug\netstandard2.0\Selector.deps.json
+C:\Users\TopC290\Documents\SONG\Xamarin\Selector\Selector\Selector\bin\Debug\netstandard2.0\Selector.dll
+C:\Users\TopC290\Documents\SONG\Xamarin\Selector\Selector\Selector\bin\Debug\netstandard2.0\Selector.pdb
+C:\Users\TopC290\Documents\SONG\Xamarin\Selector\Selector\Selector\obj\Debug\netstandard2.0\Selector.csprojAssemblyReference.cache
+C:\Users\TopC290\Documents\SONG\Xamarin\Selector\Selector\Selector\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\TopC290\Documents\SONG\Xamarin\Selector\Selector\Selector\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\TopC290\Documents\SONG\Xamarin\Selector\Selector\Selector\obj\Debug\netstandard2.0\Selector.csproj.CoreCompileInputs.cache
+C:\Users\TopC290\Documents\SONG\Xamarin\Selector\Selector\Selector\obj\Debug\netstandard2.0\Selector.AssemblyInfoInputs.cache
+C:\Users\TopC290\Documents\SONG\Xamarin\Selector\Selector\Selector\obj\Debug\netstandard2.0\Selector.AssemblyInfo.cs
+C:\Users\TopC290\Documents\SONG\Xamarin\Selector\Selector\Selector\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\TopC290\Documents\SONG\Xamarin\Selector\Selector\Selector\obj\Debug\netstandard2.0\Selector.dll
+C:\Users\TopC290\Documents\SONG\Xamarin\Selector\Selector\Selector\obj\Debug\netstandard2.0\Selector.pdb

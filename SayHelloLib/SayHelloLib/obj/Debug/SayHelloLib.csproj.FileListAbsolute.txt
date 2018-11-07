@@ -1,0 +1,6 @@
+C:\Users\TopC290\Documents\SONG\Xamarin\SayHelloLib\SayHelloLib\bin\Debug\SayHelloLib.dll
+C:\Users\TopC290\Documents\SONG\Xamarin\SayHelloLib\SayHelloLib\bin\Debug\SayHelloLib.pdb
+C:\Users\TopC290\Documents\SONG\Xamarin\SayHelloLib\SayHelloLib\obj\Debug\SayHelloLib.csprojAssemblyReference.cache
+C:\Users\TopC290\Documents\SONG\Xamarin\SayHelloLib\SayHelloLib\obj\Debug\SayHelloLib.csproj.CoreCompileInputs.cache
+C:\Users\TopC290\Documents\SONG\Xamarin\SayHelloLib\SayHelloLib\obj\Debug\SayHelloLib.dll
+C:\Users\TopC290\Documents\SONG\Xamarin\SayHelloLib\SayHelloLib\obj\Debug\SayHelloLib.pdb

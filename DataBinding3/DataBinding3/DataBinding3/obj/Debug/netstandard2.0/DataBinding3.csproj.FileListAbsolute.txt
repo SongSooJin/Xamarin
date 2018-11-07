@@ -1,0 +1,13 @@
+C:\Users\TopC290\Documents\SONG\Xamarin\DataBinding3\DataBinding3\DataBinding3\obj\Debug\netstandard2.0\DataBinding3.csprojAssemblyReference.cache
+C:\Users\TopC290\Documents\SONG\Xamarin\DataBinding3\DataBinding3\DataBinding3\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\TopC290\Documents\SONG\Xamarin\DataBinding3\DataBinding3\DataBinding3\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\TopC290\Documents\SONG\Xamarin\DataBinding3\DataBinding3\DataBinding3\obj\Debug\netstandard2.0\NextPage.xaml.g.cs
+C:\Users\TopC290\Documents\SONG\Xamarin\DataBinding3\DataBinding3\DataBinding3\obj\Debug\netstandard2.0\DataBinding3.csproj.CoreCompileInputs.cache
+C:\Users\TopC290\Documents\SONG\Xamarin\DataBinding3\DataBinding3\DataBinding3\obj\Debug\netstandard2.0\DataBinding3.AssemblyInfoInputs.cache
+C:\Users\TopC290\Documents\SONG\Xamarin\DataBinding3\DataBinding3\DataBinding3\obj\Debug\netstandard2.0\DataBinding3.AssemblyInfo.cs
+C:\Users\TopC290\Documents\SONG\Xamarin\DataBinding3\DataBinding3\DataBinding3\bin\Debug\netstandard2.0\DataBinding3.deps.json
+C:\Users\TopC290\Documents\SONG\Xamarin\DataBinding3\DataBinding3\DataBinding3\bin\Debug\netstandard2.0\DataBinding3.dll
+C:\Users\TopC290\Documents\SONG\Xamarin\DataBinding3\DataBinding3\DataBinding3\bin\Debug\netstandard2.0\DataBinding3.pdb
+C:\Users\TopC290\Documents\SONG\Xamarin\DataBinding3\DataBinding3\DataBinding3\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\TopC290\Documents\SONG\Xamarin\DataBinding3\DataBinding3\DataBinding3\obj\Debug\netstandard2.0\DataBinding3.dll
+C:\Users\TopC290\Documents\SONG\Xamarin\DataBinding3\DataBinding3\DataBinding3\obj\Debug\netstandard2.0\DataBinding3.pdb

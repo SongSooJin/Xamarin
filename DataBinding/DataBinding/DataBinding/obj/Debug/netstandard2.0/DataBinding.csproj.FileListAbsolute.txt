@@ -1,0 +1,11 @@
+C:\Users\TopC290\Documents\SONG\Xamarin\DataBinding\DataBinding\DataBinding\bin\Debug\netstandard2.0\DataBinding.deps.json
+C:\Users\TopC290\Documents\SONG\Xamarin\DataBinding\DataBinding\DataBinding\bin\Debug\netstandard2.0\DataBinding.dll
+C:\Users\TopC290\Documents\SONG\Xamarin\DataBinding\DataBinding\DataBinding\bin\Debug\netstandard2.0\DataBinding.pdb
+C:\Users\TopC290\Documents\SONG\Xamarin\DataBinding\DataBinding\DataBinding\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\TopC290\Documents\SONG\Xamarin\DataBinding\DataBinding\DataBinding\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\TopC290\Documents\SONG\Xamarin\DataBinding\DataBinding\DataBinding\obj\Debug\netstandard2.0\DataBinding.csproj.CoreCompileInputs.cache
+C:\Users\TopC290\Documents\SONG\Xamarin\DataBinding\DataBinding\DataBinding\obj\Debug\netstandard2.0\DataBinding.AssemblyInfoInputs.cache
+C:\Users\TopC290\Documents\SONG\Xamarin\DataBinding\DataBinding\DataBinding\obj\Debug\netstandard2.0\DataBinding.AssemblyInfo.cs
+C:\Users\TopC290\Documents\SONG\Xamarin\DataBinding\DataBinding\DataBinding\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\TopC290\Documents\SONG\Xamarin\DataBinding\DataBinding\DataBinding\obj\Debug\netstandard2.0\DataBinding.dll
+C:\Users\TopC290\Documents\SONG\Xamarin\DataBinding\DataBinding\DataBinding\obj\Debug\netstandard2.0\DataBinding.pdb

@@ -1,0 +1,12 @@
+C:\Users\TopC290\Documents\SONG\Xamarin\Hello_iOS\Hello_iOS\bin\iPhoneSimulator\Debug\Hello_iOS.exe
+C:\Users\TopC290\Documents\SONG\Xamarin\Hello_iOS\Hello_iOS\bin\iPhoneSimulator\Debug\Hello_iOS.pdb
+C:\Users\TopC290\Documents\SONG\Xamarin\Hello_iOS\Hello_iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\TopC290\Documents\SONG\Xamarin\Hello_iOS\Hello_iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\TopC290\Documents\SONG\Xamarin\Hello_iOS\Hello_iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\TopC290\Documents\SONG\Xamarin\Hello_iOS\Hello_iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\TopC290\Documents\SONG\Xamarin\Hello_iOS\Hello_iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\TopC290\Documents\SONG\Xamarin\Hello_iOS\Hello_iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\TopC290\Documents\SONG\Xamarin\Hello_iOS\Hello_iOS\obj\iPhoneSimulator\Debug\Hello_iOS.csprojAssemblyReference.cache
+C:\Users\TopC290\Documents\SONG\Xamarin\Hello_iOS\Hello_iOS\obj\iPhoneSimulator\Debug\Hello_iOS.csproj.CoreCompileInputs.cache
+C:\Users\TopC290\Documents\SONG\Xamarin\Hello_iOS\Hello_iOS\obj\iPhoneSimulator\Debug\Hello_iOS.exe
+C:\Users\TopC290\Documents\SONG\Xamarin\Hello_iOS\Hello_iOS\obj\iPhoneSimulator\Debug\Hello_iOS.pdb

@@ -1,0 +1,12 @@
+C:\Users\TopC290\Documents\SONG\Xamarin\App7\App7\App7\obj\Debug\netstandard2.0\App7.csprojAssemblyReference.cache
+C:\Users\TopC290\Documents\SONG\Xamarin\App7\App7\App7\bin\Debug\netstandard2.0\App7.deps.json
+C:\Users\TopC290\Documents\SONG\Xamarin\App7\App7\App7\bin\Debug\netstandard2.0\App7.dll
+C:\Users\TopC290\Documents\SONG\Xamarin\App7\App7\App7\bin\Debug\netstandard2.0\App7.pdb
+C:\Users\TopC290\Documents\SONG\Xamarin\App7\App7\App7\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\TopC290\Documents\SONG\Xamarin\App7\App7\App7\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\TopC290\Documents\SONG\Xamarin\App7\App7\App7\obj\Debug\netstandard2.0\App7.csproj.CoreCompileInputs.cache
+C:\Users\TopC290\Documents\SONG\Xamarin\App7\App7\App7\obj\Debug\netstandard2.0\App7.AssemblyInfoInputs.cache
+C:\Users\TopC290\Documents\SONG\Xamarin\App7\App7\App7\obj\Debug\netstandard2.0\App7.AssemblyInfo.cs
+C:\Users\TopC290\Documents\SONG\Xamarin\App7\App7\App7\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\TopC290\Documents\SONG\Xamarin\App7\App7\App7\obj\Debug\netstandard2.0\App7.dll
+C:\Users\TopC290\Documents\SONG\Xamarin\App7\App7\App7\obj\Debug\netstandard2.0\App7.pdb

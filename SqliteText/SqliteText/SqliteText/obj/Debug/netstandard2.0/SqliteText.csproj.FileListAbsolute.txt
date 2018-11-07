@@ -1,0 +1,14 @@
+C:\Users\TopC290\Documents\SONG\Xamarin\SqliteText\SqliteText\SqliteText\bin\Debug\netstandard2.0\SqliteText.deps.json
+C:\Users\TopC290\Documents\SONG\Xamarin\SqliteText\SqliteText\SqliteText\bin\Debug\netstandard2.0\SqliteText.dll
+C:\Users\TopC290\Documents\SONG\Xamarin\SqliteText\SqliteText\SqliteText\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\TopC290\Documents\SONG\Xamarin\SqliteText\SqliteText\SqliteText\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\TopC290\Documents\SONG\Xamarin\SqliteText\SqliteText\SqliteText\obj\Debug\netstandard2.0\SqliteText.csproj.CoreCompileInputs.cache
+C:\Users\TopC290\Documents\SONG\Xamarin\SqliteText\SqliteText\SqliteText\obj\Debug\netstandard2.0\SqliteText.AssemblyInfoInputs.cache
+C:\Users\TopC290\Documents\SONG\Xamarin\SqliteText\SqliteText\SqliteText\obj\Debug\netstandard2.0\SqliteText.AssemblyInfo.cs
+C:\Users\TopC290\Documents\SONG\Xamarin\SqliteText\SqliteText\SqliteText\bin\Debug\netstandard2.0\SqliteText.pdb
+C:\Users\TopC290\Documents\SONG\Xamarin\SqliteText\SqliteText\SqliteText\obj\Debug\netstandard2.0\SqliteText.csprojAssemblyReference.cache
+C:\Users\TopC290\Documents\SONG\Xamarin\SqliteText\SqliteText\SqliteText\obj\Debug\netstandard2.0\Views\TodoItemPage.xaml.g.cs
+C:\Users\TopC290\Documents\SONG\Xamarin\SqliteText\SqliteText\SqliteText\obj\Debug\netstandard2.0\Views\TodoListPage.xaml.g.cs
+C:\Users\TopC290\Documents\SONG\Xamarin\SqliteText\SqliteText\SqliteText\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\TopC290\Documents\SONG\Xamarin\SqliteText\SqliteText\SqliteText\obj\Debug\netstandard2.0\SqliteText.dll
+C:\Users\TopC290\Documents\SONG\Xamarin\SqliteText\SqliteText\SqliteText\obj\Debug\netstandard2.0\SqliteText.pdb
